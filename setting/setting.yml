@@ -1,0 +1,10 @@
+#認証情報jsonファイルの相対パス
+JOSON_PATH: ../setting/spreadsheet-test-sample.json
+#csvファイルの早退パス
+CSV_FILENAME: ../data/test.csv
+#スプレッドシートのURLKEY
+SPREADSHEET_KEY: XXXXXXXXXXXXXXXXXXX
+#インポートするファイルのシート名
+WORKSHEET_NAME: 作業
+
+
