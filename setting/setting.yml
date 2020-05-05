@@ -1,5 +1,5 @@
 #認証情報jsonファイルの相対パス
-JOSON_PATH: ../setting/spreadsheet-test-sample.json
+JOSON_PATH: ../json/spreadsheet-test-sample.json
 #csvファイルの早退パス
 CSV_FILENAME: ../data/test.csv
 #スプレッドシートのURLKEY
